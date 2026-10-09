@@ -13,13 +13,15 @@
 # Tester la connexion à un serveur Minetest distant
 1) Lancer Minetest
 2) Dans l'accueil, cliquez sur Rejoindre une partie
+![Rejoindre une partie](img/Capture%20d'écran%202026-09-27%20175203.png)
 3) Remplir adresse
 4) Remplir le port
+![Les différents serveurs](img/Capture%20d'écran%202026-10-07%20083326.png)
 5) Remplir le nom et le mot de passe (s'inscrire)
-![Connexion au servuer luanti](img/Capture%20d'écran%202026-09-27%20175946.png)
-
+![Connexion au servuer luanti](img/Capture%20d'écran%202026-10-07%20083830.png)
 # Explication de l'adresse
-1) Adresse IP:  155.248.231.48
+1) Adresse IP:  51.195.90.45
 2) version : IPV4
-3) Classe: classe B
+3) Classe: classe A
 4) type: publique et statique
+![Diagramme du réseau](img/Diagramme%20réseau%20.png)
