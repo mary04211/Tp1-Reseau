@@ -1,0 +1,1 @@
+pandoc "documentation.md" -f markdown -t dokuwiki -o TP1.txt

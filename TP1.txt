@@ -1,0 +1,20 @@
+====== Installation du client Luanti ======
+
+Voici les différents étapes nécessaires pour installer client Luanti - Télécharger Luanti - Installer le logiciel - lancer le logiciel {{img/Installation.png|Téléchargement de Luanti}}
+
+====== L’installation de Minetest ======
+
+  - Choisir d’installer Minetest ou Mineclonia
+  - Installer Minetest {{img/MinetestGame.png|Selection de minetest}}
+
+====== Tester la connexion à un serveur Minetest distant ======
+
+  - Lancer Minetest
+  - Dans l’accueil, cliquez sur Rejoindre une partie {{img/partie.png|Rejoindre une partie}}
+  - Remplir adresse
+  - Remplir le port {{img/Adresse.png|Les différents serveurs}}
+  - Remplir le nom et le mot de passe (s’inscrire) {{img/ConnexionLuanti.png|Connexion au servuer luanti}} # Explication de l’adresse
+  - Adresse IP: 51.195.90.45
+  - version : IPV4
+  - Classe: classe A
+  - type: publique et statique {{img/Diagramme.png|Diagramme du réseau}}
